@@ -1,9 +1,9 @@
 # Intelligo Data Science Competition 2023
 
 Our team consists of:
-Fauzan Ihza Fajar
-Muhammad Givari Ramdhani
-Roissyah Fernanda Khoiroh
+* Muhammad Givari Ramdhani
+* Fauzan Ihza Fajar
+* Roissyah Fernanda Khoiroh
 
 ### Preliminary Stage
 Aiming to forecast delivery delays within e-commerce transactions, we leveraged the Random Forest, XGBoost, and Extra Trees Classifiers. Utilizing accuracy as the key performance indicator, we meticulously optimized the models and delved into the available features. Ultimately, the Extra Trees Classifier emerged as the most adept for delay classification, achieving an impressive 93.879% accuracy. This exceptional performance propelled our team to a remarkable 7th place out of 70 competitors, securing a coveted spot in the semifinal round.
